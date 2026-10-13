@@ -46,6 +46,7 @@ img {
 nav {
     display: flex;
     align-items: center;
+    color: #001C7F;
 }
 
 nav ul {
