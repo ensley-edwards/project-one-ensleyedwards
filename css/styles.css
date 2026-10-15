@@ -63,8 +63,16 @@ header {
     grid-column: 1 / 13;
 }
 
-.hero p {
+.hero {
     width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h1 {
+    font-size: 225;
 }
 
 /* main */
