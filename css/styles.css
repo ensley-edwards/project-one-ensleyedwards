@@ -115,6 +115,16 @@ doodle {
 
 /* footer */
 footer {
-    grid-column: 1 / 13;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    background: #001C7F;
+    color: #FFFFFF;
+    font-size: 48px;
+}
+
+footer ul {
+     display: flex;
+    gap: 32px;
+    list-style: none;
+    margin-left: auto;
 }
