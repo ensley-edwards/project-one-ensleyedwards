@@ -14,10 +14,10 @@ body {
     grid-template-rows: auto;
     column-gap: 24px;
 
-    font-family: ;
-    font-size: ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
     line-height: ;
-    color: ;
+    color: #000000;
 }
 
 /* heading style */
