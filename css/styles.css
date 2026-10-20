@@ -97,6 +97,7 @@ section h2 {
 
 article {
     grid-column: 1 / 13;
+    display: grid;
     gap: 24px;
     padding: 28px;
     background: #c7d5eb;
