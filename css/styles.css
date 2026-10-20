@@ -89,9 +89,6 @@ section {
     grid-column: 1 / 13;
     display: grid;
     grid-template-columns: subgrid; 
-    gap: 24px;
-    padding: 28px;
-    background: #c7d5eb;
 }
 
 section h2 {
@@ -100,6 +97,9 @@ section h2 {
 
 article {
     grid-column: span 4;
+    gap: 24px;
+    padding: 28px;
+    background: #c7d5eb;
 }
 
 
