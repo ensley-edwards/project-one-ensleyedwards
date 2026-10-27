@@ -37,7 +37,6 @@ p {
 }
 
 
-
 /* nav */
 nav {
     display: flex;
@@ -77,7 +76,7 @@ header {
 /* main */
 main {
     grid-column: 1 / 13;
-    display: grid;
+    display: flex;
     grid-template-columns: subgrid;
 }
 
@@ -97,6 +96,13 @@ article {
     gap: 24px;
     padding: 28px;
     background: #c7d5eb;
+}
+
+.article-bird {
+    grid-column: 1 / 13;
+    display: flex;
+    gap: 24px;
+    padding: 28px;
 }
 
 .typefaces {
