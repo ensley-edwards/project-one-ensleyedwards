@@ -111,7 +111,7 @@ article {
 }
 
 .article-bird {
-    grid-column: 1 / 13;
+    grid-column: span 4;
     display: grid;
     gap: 24px;
     padding: 28px;
