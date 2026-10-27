@@ -86,6 +86,12 @@ section {
     grid-template-columns: subgrid; 
 }
 
+.section-doodle {
+    grid-column: 1 / 13;
+    display: flex;
+    grid-template-columns: subgrid; 
+}
+
 section h2 {
     grid-column: 1 / 13;
 }
