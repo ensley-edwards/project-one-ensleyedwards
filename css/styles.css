@@ -107,7 +107,7 @@ article {
     display: flex;
     gap: 24px;
     padding: 28px;
-    
+    background: #c7d5eb;
 }
 
 .article-bird {
@@ -115,6 +115,7 @@ article {
     display: grid;
     gap: 24px;
     padding: 28px;
+    background: none;
 }
 
 .typefaces {
