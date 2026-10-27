@@ -81,7 +81,7 @@ main {
 }
 
 section {
-    grid-column: span 4;
+    grid-column: 1 / 13;
     display: grid;
     grid-template-columns: subgrid; 
 }
@@ -89,6 +89,12 @@ section {
 .section-doodle {
     grid-column: 1 / 13;
     display: flex;
+    grid-template-columns: subgrid; 
+}
+
+.section-bird {
+    grid-column: 1 / 13;
+    display: grid;
     grid-template-columns: subgrid; 
 }
 
@@ -105,7 +111,7 @@ article {
 }
 
 .article-bird {
-    grid-column: span 4;
+    grid-column: 1 / 13;
     display: grid;
     gap: 24px;
     padding: 28px;
