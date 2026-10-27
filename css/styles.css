@@ -105,8 +105,8 @@ article {
 }
 
 .article-bird {
-    grid-column: 1 / 13;
-    display: flex;
+    grid-column: span 4;
+    display: grid;
     gap: 24px;
     padding: 28px;
 }
