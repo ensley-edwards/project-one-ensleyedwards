@@ -34,11 +34,12 @@ a {
 /* other copy */
 p {
 
+
 }
 
 
 /* nav */
-.nav-type {
+nav {
     display: flex;
     align-items: center;
     background: #001C7F;
@@ -48,12 +49,8 @@ p {
 }
 
 .nav-color {
-    display: flex;
-    align-items: center;
     background: #FE3131;
-    color: #FFFFFF;
-    font-size: 48px;
-    padding: 10px;
+    font-size: 24px;
 }
 
 nav ul {
