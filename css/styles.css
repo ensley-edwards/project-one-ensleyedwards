@@ -33,7 +33,7 @@ a {
 
 /* other copy */
 p {
-    
+    font-size: 18px;
 }
 
 
@@ -90,7 +90,7 @@ section {
 }
 
 .section-doodle {
-    grid-column: span 6;
+    grid-column: span 13;
     display: flex;
 }
 
