@@ -33,6 +33,7 @@ a {
 
 /* other copy */
 p {
+    display: flex;
 
 }
 
@@ -85,6 +86,9 @@ main {
 }
 
 section {
+    grid-column: 1 / 13;
+    display: grid;
+    grid-template-columns: subgrid;
     padding: 15px; 
 }
 
