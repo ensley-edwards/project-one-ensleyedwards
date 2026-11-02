@@ -39,7 +39,7 @@ p {
 
 
 /* nav */
-nav {
+.nav-type {
     display: flex;
     align-items: center;
     background: #001C7F;
@@ -48,7 +48,7 @@ nav {
     padding: 10px;
 }
 
-.nav-color{
+.nav-color {
     display: flex;
     align-items: center;
     background: #FE3131;
