@@ -25,6 +25,10 @@ h1, h2, h3 {
 
 }
 
+h1 {
+    font-size: 400;
+}
+
 /* links */
 a {
     color: inherit;
@@ -33,6 +37,7 @@ a {
 
 /* other copy */
 p {
+
 
 }
 
