@@ -57,11 +57,11 @@ nav ul {
 
 /* header */
 header {
-    
+    grid-column: 1 / 13;
 }
 
 .hero {
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
