@@ -90,7 +90,7 @@ section {
 }
 
 .section-doodle {
-    grid-column: span 13;
+    grid-column: span 6;
     display: flex;
 }
 
